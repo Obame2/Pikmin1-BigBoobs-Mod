@@ -11,18 +11,18 @@ Pikmin
 [discord]: https://discord.gg/CWKqYMePX8
 [progress]: https://decomp.dev/projectPiki/pikmin
 
-A work-in-progress decompilation of Pikmin (GameCube, 2001).
+A complete matching decompilation of Pikmin (GameCube, 2001).
 
-Supported versions (active):
-- `GPIE01_01`: USA (Rev 1) - Default Version
+Supported versions (100% matching):
 - `GPIE01_00`: USA (Rev 0)
-- `G98E01_PIKIDEMO`: USA Interactive Multi-Game Demo Disc - January 2002 "zz_PikminDemo-1210.tgc"
-- `GPIP01_00`: Europe (Rev 0)
-
-Supported versions (to be worked on):
-- `DPIJ01_PIKIDEMO`: 店頭ゲームデモディスク Oct'2001 (Pikmin Jitsuen-you Sample Disc) "zz_pikmin_game/PikiDemo.tgc"
+- `GPIE01_01`: USA (Rev 1) - Default Version
 - `GPIJ01_01`: Japan (Rev 1)
 - `GPIJ01_02`: Japan (Rev 2)
+- `GPIP01_00`: Europe (Rev 0)
+
+Versions to be worked on (not yet 100%):
+- `G98E01_PIKIDEMO`: USA Interactive Multi-Game Demo Disc - January 2002 "zz_PikminDemo-1210.tgc"
+- `DPIJ01_PIKIDEMO`: 店頭ゲームデモディスク Oct'2001 (Pikmin Jitsuen-you Sample Disc) "zz_pikmin_game/PikiDemo.tgc"
 - `G98P01_PIKIDEMO`: Europe Interactive Multi-Game Demo Disc - May 2002 "zz_PikiDemo.tgc"
 
 Note: this repository contains **no game assets** - an existing copy of the game is required.
